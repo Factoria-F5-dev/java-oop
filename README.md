@@ -30,7 +30,7 @@ Estos son los personajes mínimos que crearás, puedes añadir más:
 12. Nombre: Raquel Murillo; Puesto de trabajo: inspectora; categoría: policía.
 
 ## Ejercicio:
-Cuando tengas todas las clases e interfaces definidas con sus métodos y atributos has de crear objetos e imprimir en la consola lo siguente:
+Cuando tengas todas las clases e interfaces definidas con sus métodos y atributos has de crear objetos e imprimir en la terminal lo siguente:
 
 1. The team of thiefs are: Professor, Berlin, Tokyo, Nairobi, Rio, Denver, Helsinki, Moscow, Oslo.
 2. The specialties of the Professor are: robbery, planning, negotiation, author.
@@ -45,3 +45,10 @@ Al evocar actuar:
 Al evocar ejecutar plan:
 1. Enter the building, close the doors, take out the weapons, gather the hostages and start the plan to print money.
 2. Try to contact the leader of the gang, find out how many hostages there are and negotiate their release.
+
+### Tests
+Los tests se encuentran resueltos y es una buena idea ir a mirar para guiar tu solución.
+
+### Tecnologías
+Java 21
+JUnit Jupiter 5.12.0 
