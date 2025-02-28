@@ -49,6 +49,6 @@ Al evocar ejecutar plan:
 ### Tests
 Los tests se encuentran resueltos y es una buena idea ir a mirar para guiar tu solución.
 
-### Tecnologías
-Java 21
-JUnit Jupiter 5.12.0 
+## Tecnologías
+- Java 21
+- JUnit Jupiter 5.12.0 
